@@ -10,7 +10,7 @@
     <link rel="icon" href="public/gop_favicon.png" type="image/x-icon">
 
 
-    <title>BRS - Inaugration</title>
+    <title>RRMTI - Inaugration</title>
 
     <!-- Confetti CDN -->
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
@@ -352,7 +352,7 @@
 
 <body>
     <div class="card">
-        <h1 class="main-title">Building Research Station (BRS)</h1>
+        <h1 class="main-title">Road Research & Material Testing Institute (RRMTI)</h1>
         <p class="sub-title">Inaugration</p>
 
 
@@ -363,10 +363,6 @@
         <div class="logo-wrapper d-flex align-items-center gap-2">
             <a href="https://urbanunit.gov.pk/" target="_blank">
                 <img src="public/uu_logo.png" class="company-logo" id="logo1" />
-            </a>
-
-            <a href="#" target="_blank">
-                <img src="public/brs_logo.png" class="company-logo" id="logo2" />
             </a>
 
             <a href="#" target="_blank">
