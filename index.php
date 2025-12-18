@@ -21,7 +21,7 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('public/bg.png') no-repeat center center/cover;
+            background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('public/rrmti-bg.png') no-repeat center center/cover;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             overflow: hidden;
             animation: fadeIn 2s ease-in-out;
@@ -409,7 +409,7 @@
 
                 // Redirect after 2 seconds
                 setTimeout(() => {
-                    window.location.href = "http://cnw.urbanunit.gov.pk/cnw_brs/"; // <<< Change link here
+                    window.location.href = "https://ict.urbanunit.gov.pk/cnw_rrmti_v0/"; // <<< Change link here
                 }, 20000);
 
             }, 15000);
