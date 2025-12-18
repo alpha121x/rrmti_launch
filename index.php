@@ -377,7 +377,7 @@
 
 
         <div class="success-message" id="successMessage">
-            <p>The BRS System is lived now!</p>
+            <p>The RRMTI System is lived now!</p>
         </div>
     </div>
 
@@ -417,7 +417,7 @@
         }
 
         function fireConfetti() {
-            const duration = 12 * 1000;
+            const duration = 13 * 1000;
             const animationEnd = Date.now() + duration;
 
             const defaults = {
