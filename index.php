@@ -377,7 +377,7 @@
 
 
         <div class="success-message" id="successMessage">
-            <p>The RRMTI System is lived now!</p>
+            <p>The RRMTI System is live now!</p>
         </div>
     </div>
 
