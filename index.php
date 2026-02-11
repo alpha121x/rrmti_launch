@@ -352,7 +352,7 @@
 
 <body>
     <div class="card">
-        <h1 class="main-title">Road Research & Material Testing Institute (RRMTI)</h1>
+        <h1 class="main-title">Digitization Of Road Research & Material Testing Institute (RRMTI)</h1>
         <p class="sub-title">Inaugration</p>
 
 
