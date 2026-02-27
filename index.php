@@ -420,11 +420,6 @@
                 // Fire another round of confetti when success message shows
                 fireConfetti();
 
-                // Redirect after 2 seconds
-                // setTimeout(() => {
-                //     window.location.href = "http://cnw.urbanunit.gov.pk/cnw_brs/"; // <<< Change link here
-                // }, 20000);
-
             }, 15000);
 
         }
